@@ -11,3 +11,7 @@ create_postcard()
 install.packages("distill")
 library("distill")
 create_website(dir=".",title="wondong",gh_pages=TRUE)
+![](ppp.jpg){width=200}
+
+## About me:
+HiHi I'm wondong

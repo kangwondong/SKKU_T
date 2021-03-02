@@ -1,11 +1,12 @@
 name: "."
 title: "wondong"
 description: |
-  Hi I'm wondong
+  wondong
 output_dir: "docs"
 navbar:
   right:
-    - text: "About"
+    - text: "Home"
       href: index.html
-
+    - text: "About"
+      href: about.html
 output: distill::distill_article
