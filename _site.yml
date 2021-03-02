@@ -1,12 +1,11 @@
 name: "."
-title: "iyo-distill"
+title: "wondong"
 description: |
-  iyo-distill
+  Hi I'm wondong
 output_dir: "docs"
 navbar:
   right:
-    - text: "Home"
-      href: index.html
     - text: "About"
-      href: about.html
+      href: index.html
+
 output: distill::distill_article

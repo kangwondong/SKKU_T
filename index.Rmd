@@ -1,18 +1,18 @@
 ---
-title: "iyo-distill"
+title: "wondong"
 description: |
-  Welcome to the website. I hope you enjoy it!
+  Hi I'm Wondong
 site: distill::distill_website
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 
-# Learn more about creating websites with Distill at:
-# https://rstudio.github.io/distill/website.html
 
-# Learn more about publishing to GitHub Pages at:
-# https://rstudio.github.io/distill/publish_website.html#github-pages
 
 ```
 
+![](ppp.jpg){width=200}
+
+## About me:
+HiHi I'm wondong
